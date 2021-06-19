@@ -1,3 +1,7 @@
+# EDA and Geospatial Project on Earthquakes in Tennessee
+
+NSS Group project | Collaborators: https://github.com/racecarfastlane and https://github.com/jasonamyers
+
 ## Data Question 4: Web Scraping Earthquake Data
 
 ### Part 1:
